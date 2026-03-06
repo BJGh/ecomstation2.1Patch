@@ -1,13 +1,4 @@
--=== osFree, Open Source OS/2 Clone ===-
-osFree(OS/3): The reincarnation of OS/2.
 
-[![Build status](https://github.com/osfree-project/osfree/actions/workflows/build_win.yml/badge.svg)](https://github.com/osfree-project/osfree/actions?query=workflow%3Abuild_win.yml)
-
-[![Build status](https://github.com/osfree-project/osfree/actions/workflows/build_lnx.yml/badge.svg)](https://github.com/osfree-project/osfree/actions?query=workflow%3Abuild_lnx.yml)
-
-Английский:
-
-English:
 
 # Getting the source code
 
@@ -71,7 +62,4 @@ FamilyAPI, MacroLib, fat32, jfs, os3 и другие.
 
 В общем случае, скрипты с расширением .bat у нас обычно специфичны для windows хоста,
 .cmd для OS/2 хоста, и .sh для UNIX/Linux хоста.
-
-
-(c) osFree project, 2002-2022
-http://www.osfree.org/
+.////ДА МНЕ УЛЬТРА БЕЗРАЗЛИЧНО, ОБНОВЛЯЮ СВОЮ СИСТЕМУ ПрЯМО СЕЙЧАС.
